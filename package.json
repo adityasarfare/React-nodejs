@@ -1,0 +1,22 @@
+{
+  "name": "ajashakti",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-plugin-react": "^7.22.0",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon backend/Server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
